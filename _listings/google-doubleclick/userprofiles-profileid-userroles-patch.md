@@ -31,7 +31,8 @@ paths:
           description: OK
       tags:
       - advertising
-      - user role
+      - users
+      - roles
 definitions: []
 x-collection-name: Google Doubleclick
 x-streamrank:

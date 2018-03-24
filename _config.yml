@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: google-doubleclick.api.streamdata.gallery
+title: Streamdata Gallery Google Doubleclick
+url: google-doubleclick.streamdata.gallery
 tag: Google Doubleclick
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: google-doubleclick
 github_branch: master
 collections:
